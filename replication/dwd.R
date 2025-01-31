@@ -9,8 +9,8 @@
 library(tidyverse)
 url="https://www.dwd.de/DE/leistungen/_config/leistungsteckbriefPublication.htm?view=nasPublication&nn=16102&imageFilePath=12457998846040538266923503217546217740945044365452315531878965869354799583730014208313556886851581304435167075435902474522293820556788155046949847319924488503535140554578442479455774883276224364730830036670537891237508202786597280079524278375595464423260142208134840387684799613567248688392248048957&download=true"
 tables = url %>% rvest::read_html() %>% rvest::html_table(fill = TRUE)
-temperature_y = ts(as.numeric(gsub('\\,','.',tables[[1]]$WertValue)), start = tables[[1]]$JahrYear[1], frequency=1)
-usethis::use_data(temperature_y, overwrite = TRUE)
+temperature.y = ts(as.numeric(gsub('\\,','.',tables[[1]]$WertValue)), start = tables[[1]]$JahrYear[1], frequency=1)
+usethis::use_data(temperature.y, overwrite = TRUE)
 
 ## ########################################
 ## Temperature monthly
