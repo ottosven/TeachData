@@ -1,0 +1,16 @@
+Package: TeachData
+Type: Package
+Title: A collection of open data for educational use 
+Version: 0.1.0
+Author: Sven Otto
+Maintainer: Sven Otto <sven.otto@uni-koeln.de>
+Description: This package provides different datasets, each under its own specific license. 
+  The datasets cover various topics and are distributed for educational and research purposes. 
+  Please refer to the documentation for each dataset (e.g., `?dataset1`, `?dataset2`) 
+  for detailed licensing information and attribution requirements.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.2.3
