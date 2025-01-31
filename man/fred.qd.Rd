@@ -40,10 +40,7 @@ Furthermore, we thank the authors of the
 for making the database available under the ODC-BY 1.0 license.
 }
 \references{
-McCracken, M. W. and Ng, S. (2016) FRED-MD: A Monthly Database for
-  Macroeconomic Research. \emph{Journal of Business & Economic Statistics},
-  \bold{34:4}, 574-589, \doi{10.1080/07350015.2015.1086655}.
-  McCracken, M. W., & Ng, S. (2020). FRED-QD: A Quarterly Database for
-  Macroeconomic Research \bold{w26872}. National Bureau of Economic Research.
+* McCracken, M. W. and Ng, S. (2016) FRED-MD: A Monthly Database for Macroeconomic Research. \emph{Journal of Business & Economic Statistics}, \bold{34:4}, 574-589, \doi{10.1080/07350015.2015.1086655}.
+* McCracken, M. W., & Ng, S. (2020). FRED-QD: A Quarterly Database for Macroeconomic Research \bold{w26872}. National Bureau of Economic Research.
 }
 \keyword{datasets}
