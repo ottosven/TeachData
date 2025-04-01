@@ -11,6 +11,7 @@
 #'
 #' @keywords datasets
 #'
-#' @source Robert Koch-Institut (RKI), \href{https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Fallzahlen_Kum_Tab_aktuell}{Source}, \href{https://www.govdata.de/dl-de/by-2-0}{DL-DE BY-2.0}
+#' @source Robert Koch-Institut (RKI), \href{https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Fallzahlen_Kum_Tab_aktuell}{Source},
+#' License \href{https://www.govdata.de/dl-de/by-2-0}{DL-DE BY-2.0}
 "covidcases"
 

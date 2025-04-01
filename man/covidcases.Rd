@@ -8,7 +8,8 @@
 A daily multivariate time series of the class data.frame.
 }
 \source{
-Robert Koch-Institut (RKI), \href{https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Fallzahlen_Kum_Tab_aktuell}{Source}, \href{https://www.govdata.de/dl-de/by-2-0}{DL-DE BY-2.0}
+Robert Koch-Institut (RKI), \href{https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Fallzahlen_Kum_Tab_aktuell}{Source},
+License \href{https://www.govdata.de/dl-de/by-2-0}{DL-DE BY-2.0}
 }
 \usage{
 data(covidcases)
